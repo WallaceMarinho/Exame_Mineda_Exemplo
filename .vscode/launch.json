@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Springboot3appApplication<springboot3app>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.gov.sp.fatec.springboot3app.Springboot3appApplication",
+            "projectName": "springboot3app",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
